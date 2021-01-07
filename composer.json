@@ -1,7 +1,7 @@
 {
     "name": "lfbellante/regioni-province-comuni",
     "description": "Questo package di laravel permette d'importare tutte le regioni d'italia, le relative province e i loro comuni. Permettendo quindi di usare queste informazioni in ogni istanza necessaria.",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
