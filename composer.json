@@ -15,5 +15,10 @@
         "psr-4": {
             "Lfbellante\\RegioniProvinceComuni\\": "./src/"
         }
-    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Lfbellante\\RegioniProvinceComuni\\": "./src/"
+        }
+    },
 }
