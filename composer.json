@@ -17,5 +17,12 @@
         "psr-4": {
             "lfbellante": "./src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lfbellante\\RegioniProvinceComuni\\RegionsServiceProvider"
+            ]
+        }
     }
 }
