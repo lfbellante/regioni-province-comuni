@@ -13,12 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Lfbellante\\RegioniProvinceComuni\\": "./src/"
+            "lfbellante": "./src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Lfbellante\\RegioniProvinceComuni\\": "./src/"
-        }
-    },
+    }
 }
