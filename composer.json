@@ -20,8 +20,8 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": [
-                "*"
+            "providers": [
+                "Lfbellante\\RegioniProvinceComuni\\RegionsServiceProvider"
             ]
         }
     }
